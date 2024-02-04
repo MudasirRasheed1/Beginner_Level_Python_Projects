@@ -1,2 +1,2 @@
-# Beginner_Level_Python_Projects
- "A collection of beginner-level Python projects aimed at learning Python fundamentals."
+# Python projects
+ "A collection of beginner-level and intermediate  Python projects aimed at learning Python fundamentals."
